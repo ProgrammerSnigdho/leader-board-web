@@ -1,0 +1,147 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F3F1FF;
+}
+
+.brand-logo {
+    width: 40px;
+    margin-right: 5px;
+}
+
+.bg-light {
+    background-color: #562EFF !important;
+}
+
+.idea-container {
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+.nav-link {
+    margin-right: 20px;
+}
+
+#highlight-text {
+    color: #562EFF;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+.top-player-text {
+    padding-top: 35px;
+}
+
+.top-blog-text {
+    padding-top: 20px;
+}
+
+.top-players .row img {
+    width: 56px;
+}
+
+.top-players .row {
+    padding-bottom: 10px;
+}
+
+.top-players .row .col-md-4 {
+    margin-top: 30px;
+}
+
+.top-player-name {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.top-blogs .row img {
+    width: 177px;
+}
+
+.top-blogs .row .col-md-6 div {
+    margin-left: 15px;
+    width: 200px;
+}
+
+.top-blogs .row .col-md-6 {
+    margin-top: 28px;
+}
+
+.top-blogs .row .col-md-6 div h3 {
+    font-size: 20px;
+}
+
+.top-blogs .row .col-md-6 div p {
+    font-size: 16px;
+}
+
+.top-blogs .row .col-md-6 div p span {
+    color: #562EFF;
+}
+
+.top-blogs .row {
+    padding-bottom: 40px;
+}
+
+.course-text {
+    padding-top: 28px;
+}
+
+.courses .card {
+    border: none;
+    filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+    border-radius: 20px;
+}
+
+.courses .card .card-img-top {
+    width: 220px;
+    margin: auto;
+    padding-top: 9px;
+}
+
+.courses .card h5 {
+    font-size: 20.03px;
+}
+
+.courses .card .card-text {
+    color: #ED6B4F;
+}
+
+.rating img {
+    width: 12px !important;
+}
+
+.card-footer {
+    border-top: none;
+    background-color: white;
+    border-radius: 15px !important;
+}
+
+.card-footer h6 {
+    font-size: 14.69px;
+    color: #A2A2A2;
+}
+
+.rating {
+    margin-top: 4px;
+}
+
+.time {
+    height: 29.38px;
+    background-color: #FFE4E8;
+    border-radius: 14.69px;
+    padding: 0 10px;
+    margin-top: -2.6px;
+    margin-left: 7.23px;
+    margin-right: -8px;
+}
+
+.time img {
+    width: 20.03px !important;
+}
+
+.time p {
+    font-size: 14.6913px;
+    color: #FF4A60;
+    padding-top: 16.7px;
+    padding-left: 5px;
+}
